@@ -10,3 +10,6 @@
 8.	Antenna
 9.	Power Switch
 10.	Connecting Wires
+
+
+![download](https://github.com/user-attachments/assets/5f4c39a8-3494-4425-9426-b410da162d47)
