@@ -9,4 +9,4 @@
 7.	1 X Capacitor (3300 microfarad)
 8.	Antenna
 9.	Power Switch
-10.Connecting Wires
+10.	Connecting Wires
